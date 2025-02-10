@@ -343,7 +343,7 @@ body::after {
     opacity: 0;
     transition: opacity 1s ease-in-out;
     font-family: 'Hugh is Life', sans-serif; /* Hugh is Life фонтыг ашиглах */
-    font-size: 1.8em; /* Фонтын хэмжээг томруулах */
+    font-size: 2em; /* Фонтын хэмжээг томруулах */
     text-align: center; /* Текстийг төвд байрлуулах */
 }
 
@@ -378,8 +378,8 @@ body::after {
     left: 50%;
     transform: translateX(-50%);
     display: inline-block;
-    width: 60px;
-    height: 34px;
+    width: 120px;
+    height: 68px;
 }
 
 .switch input {
