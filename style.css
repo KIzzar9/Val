@@ -329,7 +329,7 @@ body::after {
 
 .fade-text {
     position: fixed;
-    top: 10%; /* Текстийн боксын дээд зайг өөрчлөх */
+    top: 30%; /* Текстийн боксын дээд зайг өөрчлөх */
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000; /* Ensure it is above other elements */
@@ -374,7 +374,7 @@ body::after {
 /* Toggle Switch */
 .switch {
     position: fixed;
-    top: 50px;
+    top: 150px;
     left: 50%;
     transform: translateX(-50%);
     display: inline-block;
