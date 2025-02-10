@@ -374,7 +374,7 @@ body::after {
 /* Toggle Switch */
 .switch {
     position: fixed;
-    top: 150px;
+    top: 300px;
     left: 50%;
     transform: translateX(-50%);
     display: inline-block;
