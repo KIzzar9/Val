@@ -329,7 +329,7 @@ body::after {
 
 .fade-text {
     position: fixed;
-    top: 30%; /* Текстийн боксын дээд зайг өөрчлөх */
+    top: 40%; /* Текстийн боксын дээд зайг өөрчлөх */
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000; /* Ensure it is above other elements */
@@ -395,7 +395,7 @@ body::after {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #06031b;
+    background-color: #123448;
     transition: .4s;
     border-radius: 64px;
 }
